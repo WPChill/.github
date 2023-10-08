@@ -14,4 +14,4 @@ We’ve got several never seen the light of day products behind us (failures), a
 Through this series of iterations, we’ve learned – a LOT. We’ve packed all of these learnings into a core suite of products, for which we stand proud today and promote under the WPChill brand.
 When you become a paying user for any of our products, you don’t just buy a product; you get a partner you can rely on.
 
-This is just the beginning of our story – stay tuned for more. Oh, and you should check out our blog.
+This is just the beginning of our story – stay tuned for more. Oh, and you should check out our [blog](https://wpchill.com/blog/).
